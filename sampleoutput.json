@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Frank Pallotta, CNN Business",
+      "title": "'SNL' has the Facebook whistleblower help congress understand social media - CNN",
+      "description": "Social media can be difficult to understand, but luckily for Congress they had the Facebook whistleblower walk them through it on \"Saturday Night Live.\"",
+      "url": "https://www.cnn.com/2021/10/10/media/snl-facebook-whistleblower-cold-open/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211009233605-screengrab-saturday-night-live-10-09-2021-super-tease.jpg",
+      "publishedAt": "2021-10-10T06:29:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Eric Cheung, CNN",
+      "title": "Taiwan won't be forced to bow to China, President Tsai says during National Day celebrations - CNN",
+      "description": "Taiwan will not bow to pressure and nobody can force it to accept the path China has laid out for the self-governing democracy, President Tsai Ing-wen said Sunday as the island celebrated its National Day amid heightened tensions with Beijing.",
+      "url": "https://www.cnn.com/2021/10/10/asia/taiwan-national-day-tsai-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211009222927-03-taiwan-national-day-10-10-2021-tsai-ing-wen-super-tease.jpg",
+      "publishedAt": "2021-10-10T05:48:00Z",
+      "content": "Taipei, Taiwan (CNN)Taiwan will not bow to pressure and nobody can force it to accept the path China has laid out for the self-governing democracy, President Tsai Ing-wen said Sunday as the island ce… [+7768 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Deontay Wilder and Tyson Fury electric walkouts | PBC ON FOX | Fury vs Wilder III - PBC ON FOX",
+      "description": "Watch Deontay Wilder and Tyson Fury walk out before their Pay-Per-View trilogy fight at the T-Mobile arena in Las Vegas, Nevada. #FuryWilder3 PPV here: https...",
+      "url": "https://www.youtube.com/watch?v=Ar_qqRShHHU",
+      "urlToImage": "https://i.ytimg.com/vi/Ar_qqRShHHU/maxresdefault.jpg",
+      "publishedAt": "2021-10-10T05:25:06Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Kim Kardashian West Monologue - SNL - Saturday Night Live",
+      "description": "First-time host Kim Kardashian West talks about living a very public life and her divorce from Kanye West.Saturday Night Live.  Stream now on Peacock: https:...",
+      "url": "https://www.youtube.com/watch?v=LQCQym6hVMo",
+      "urlToImage": "https://i.ytimg.com/vi/LQCQym6hVMo/maxresdefault.jpg",
+      "publishedAt": "2021-10-10T04:54:07Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "David Cobb",
+      "title": "Alabama vs. Texas A&M score, takeaways: Aggies win stunner, No. 1 Tide suffer first unranked loss since 2007 - CBSSports.com",
+      "description": "The nation's top-ranked team fell hard in Kyle Field to a Texas A&M team ready for everything Alabama threw at it",
+      "url": "https://www.cbssports.com/college-football/news/alabama-vs-texas-a-m-score-takeaways-aggies-win-stunner-no-1-tide-suffer-first-unranked-loss-since-2007/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/10/10/0b745322-d75a-4471-b283-cb1ec6f051d2/thumbnail/1200x675/84dc49750f28c1a4b16efb70017b6956/texas-am-alabama-celebrate-g.png",
+      "publishedAt": "2021-10-10T03:55:00Z",
+      "content": "Texas A&amp;M pulled off the upset of the 2021 college football season -- and one for the history books -- on Saturday night as it took down No. 1 Alabama, 41-38, in front of 106,815 fans, the second… [+4994 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Paul Steinhauser",
+      "title": "Trump rallies in Iowa as he eyes 2022 and 2024 - Fox News",
+      "description": "Former President Donald Trump made his first stop in the competitive Central Plains state since last year's election.",
+      "url": "https://www.foxnews.com/politics/trump-rally-iowa-2022-2024",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Donald-Trump-Georgia-rally-Sept.2021a.jpg",
+      "publishedAt": "2021-10-10T02:53:02Z",
+      "content": "DES MOINES, IOWA - Former President Trump took aim at the massive spending bill that President Biden and congressional Democrats are trying to pass into law, charging it's a \"monstrosity\" and \"so dan… [+2154 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Lauren Vella",
+      "title": "Texas gubernatorial candidate Allen West says he has coronavirus-related pneumonia | TheHill - The Hill",
+      "description": "Texas Republican gubernatorial candidate Allen West announced Saturday night that he has pneumoni...",
+      "url": "https://thehill.com/homenews/campaign/576095-texas-gubernatorial-candidate-allen-west-says-he-has-coronavirus-related",
+      "urlToImage": "https://thehill.com/sites/default/files/20200523_westallen_gettyimages.jpg",
+      "publishedAt": "2021-10-10T02:37:50Z",
+      "content": "Texas Republican gubernatorial candidate Allen West announced Saturday night that he has pneumonia related to a COVID-19 infection. \r\nThe former Florida representative and lieutenant colonel announce… [+2287 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Bradford Doolittle",
+      "title": "Atlanta Braves' Max Fried stays hot, evens NLDS with nine-strikeout gem - ESPN",
+      "description": "Max Fried had nine strikeouts in six shutout innings, and the Atlanta Braves won 3-0 in Saturday's Game 2 to even their series with the Milwaukee Brewers at 1-1.",
+      "url": "https://www.espn.com/mlb/story/_/id/32369939/atlanta-braves-max-fried-stays-hot-evens-nlds-nine-strikeout-gem",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1009%2Fr920597_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-10-10T02:36:19Z",
+      "content": "MILWAUKEE -- In a series chock full of dominant starting pitching, it's hard to stand out. But Atlanta's Max Fried did just that on Saturday, and with his latest gem, the Braves are headed home with … [+6018 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Chicago Tribune" },
+      "author": "Alice Yin, Gregory Pratt",
+      "title": "Chicago Park District CEO Mike Kelly resigns - Chicago Tribune",
+      "description": "Chicago Park District CEO Mike Kelly resigned Saturday, more than a year after he reportedly first learned about the wide-ranging sexual abuse allegations among lifeguards that would come to dominate the city agency.",
+      "url": "https://www.chicagotribune.com/politics/ct-chicago-park-district-mike-kelly-20211010-7uwii2cg2bbybaqolfeekt3xvu-story.html",
+      "urlToImage": "https://www.chicagotribune.com/resizer/h2YR7IyjHuzYN468BULYMLY0aoQ=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BSDWH2XWHFH77I7CMCPKIIKKEE.jpg",
+      "publishedAt": "2021-10-10T02:08:00Z",
+      "content": "Chicago Park District CEO Mike Kelly resigned Saturday, more than a year after he reportedly first learned about the wide-ranging sexual abuse allegations among lifeguards that would come to dominate… [+3658 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WGN TV Chicago" },
+      "author": "Jewell Hillery",
+      "title": "Reason behind widespread Southwest delays unclear as hundreds of customers left stranded - WGN TV Chicago",
+      "description": "CHICAGO — Hundreds of Southwest Airlines customers have been left stranded due to widespread cancellations across the country. The airline has said that an air traffic management program put in place due to weather has caused significant delays, although some…",
+      "url": "https://wgntv.com/news/chicago-news/reason-behind-widespread-southwest-delays-unclear-as-hundreds-of-customers-left-stranded/",
+      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2021/10/southwestdelays.png?w=1280",
+      "publishedAt": "2021-10-10T02:06:34Z",
+      "content": "CHICAGO Hundreds of Southwest Airlines customers have been left stranded due to widespread cancellations across the country.\r\nThe airline has said that an air traffic management program put in place … [+1571 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Jody Serrano",
+      "title": "Tesla Halts Rollout of Full Self-Driving Beta to Drivers With ‘Perfect’ Safety Scores - Gizmodo",
+      "description": "Tesla planned to release beta version 10.2 to roughly 1,000 drivers on Friday, but it didn't happen. Musk cited \"last-minute concerns about the build.\"",
+      "url": "https://gizmodo.com/tesla-halts-rollout-of-full-self-driving-beta-to-driver-1847834080",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/57923da03ab5164f3a1a8176a2f60c65.jpg",
+      "publishedAt": "2021-10-10T01:30:00Z",
+      "content": "A planned rollout of Teslas Full Self-Driving beta version 10.2 to roughly 1,000 Tesla owners with perfect safety scores was delayed on Saturday. In explaining the delay, CEO Elon Musk stated that th… [+2297 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Deadline",
+      "title": "Daniel Craig's 'No Time To Die' projected to bring in $60M in first weekend at the box office - Fox Business",
+      "description": "\"No Time To Die\" starring Daniel Craig is projected to bring in $60M total over the opening weekend of the film in the United States.",
+      "url": "https://www.foxbusiness.com/lifestyle/daniel-craig-no-time-to-die-box-office-earnings",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/08/0/0/Daniel-Craig-Getty.jpg?ve=1&tl=1",
+      "publishedAt": "2021-10-10T01:29:52Z",
+      "content": "The wait is over, as the 25th Bond finally hit US movie screens yesterday, grossing $23.3M, including $6.3M in previews, on its way to a weekend of$60Mat 4,407 theaters.\r\nThis is where tracking spott… [+6344 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Tori Tori",
+      "title": "North Carolina lieutenant governor says he \"will not back down\" amid calls to resign for calling LGBTQ+ education \"filth\" - CBS News",
+      "description": "\"There's no reason anybody anywhere in America should be telling any child about transgenderism, homosexuality, any of that filth,\" Robinson said in a recently resurfaced video.",
+      "url": "https://www.cbsnews.com/news/mark-robinson-north-carolina-lt-governor-lgbtq-filth-resignation/",
+      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/10/f55c451a-5082-455b-af1f-0abe5ae219b2/thumbnail/1200x630/aa477e66dd44a0682dbb977682fadcb1/ap-20315628429764.jpg",
+      "publishedAt": "2021-10-10T01:26:00Z",
+      "content": "North Carolina Lieutenant Governor Mark Robinson said Saturday that he \"will not back down\" as politicians call for his resignation over recently resurfaced comments in which he referred to \"transgen… [+3267 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Jeanine Santucci, USA TODAY",
+      "title": "Georgia police officer fatally shot on first day with new department; search for suspect underway - USA TODAY",
+      "description": "Dylan Harrison, 26, was shot and killed at about 1 a.m. outside the Alamo Police Department in Georgia, officials said. His killer is still at-large.",
+      "url": "https://www.usatoday.com/story/news/nation/2021/10/09/georgia-police-officer-killed-first-day-alamo-police-department/6076202001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/07/08/USAT/a3591d13-f0f9-4c1e-ad44-b6ec104cba42-GA-01.png?auto=webp&crop=4102,2308,x578,y425&format=pjpg&width=1200",
+      "publishedAt": "2021-10-10T01:19:54Z",
+      "content": "A 26-year-old police officer was fatally shot during his first shift for the Alamo Police Department, and the suspect is still at-large, Georgia officials said Saturday.\r\nDylan Harrison was killed ou… [+1603 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Associated Press",
+      "title": "Gen. Raymond Odierno, Who Commanded U.S. Forces in Iraq, Dies at 67 - The Wall Street Journal",
+      "description": "Retired general had military career that spanned many decades and countries",
+      "url": "https://www.wsj.com/articles/gen-raymond-odierno-who-commanded-u-s-forces-in-iraq-dies-at-67-11633827699",
+      "urlToImage": "https://images.wsj.net/im-414681/social",
+      "publishedAt": "2021-10-10T01:01:00Z",
+      "content": "Raymond T. Odierno, a retired Army general who commanded American and coalition forces in Iraq at the height of the war and capped a 39-year career by serving as the Armys chief of staff, has died, h… [+147 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Caroline Vakil",
+      "title": "Son of Indian junior minister arrested after vehicle kills farmers | TheHill - The Hill",
+      "description": "The son of an Indian junior minister was arrested on Saturday aft...",
+      "url": "https://thehill.com/policy/international/576089-son-of-indian-junior-minister-arrested-after-vehicle-kills-farmers",
+      "urlToImage": "https://thehill.com/sites/default/files/article_images/indiaagricultureprotest_10921_gettyimages.jpg",
+      "publishedAt": "2021-10-10T00:41:33Z",
+      "content": "The son of an Indian junior minister was arrested on Saturday after farm leaders accused him of being in the car that killed several farmers earlier this week, The Associated Press reported.\r\nPolice … [+1835 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Mail" },
+      "author": "James Gordon",
+      "title": "3-year-old Christopher Ramirez has been found alive after going missing 4 days ago in Texas - Daily Mail",
+      "description": "A three-year-old Texas boy, Christopher Ramirez,  who was missing for four days was found alive in a wooded area on Saturday and seemed to be in good health, authorities said.",
+      "url": "https://www.dailymail.co.uk/news/article-10076507/3-year-old-Christopher-Ramirez-alive-going-missing-4-days-ago-Texas.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/10/00/48972889-0-image-a-35_1633822538986.jpg",
+      "publishedAt": "2021-10-10T00:41:20Z",
+      "content": "A three-year-old Texas boy feared kidnapped after he went missing for four days has been found alive and reunited with his mother in an emotional reunion.\r\nChristopher Ramirez was found alive in a wo… [+2565 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PennLive" },
+      "author": "Bob Flounders | bflounders@pennlive.com",
+      "title": "Penn State rapid reaction: No. 3 Iowa 23, No. 4 Lions 20 (Kinnick Stadium) - PennLive",
+      "description": "The Lions' nine-game winning streak is snapped.",
+      "url": "https://www.pennlive.com/pennstatefootball/2021/10/penn-state-rapid-reaction-no-3-iowa-23-no-4-lions-20-kinnick-stadium.html",
+      "urlToImage": "https://www.pennlive.com/resizer/WP018sfAi3wCusGw7MpXwu4B2Nw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/K4AXGN6XP5CNTMJY3CKS53GF3E.jpg",
+      "publishedAt": "2021-10-10T00:00:13Z",
+      "content": "You can debate whether Penn State or Iowa were deserving of their top-5 rankings coming into Saturdays game, but you cant question the caliber of either teams defense or kicking game.\r\nAll of the uni… [+4998 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Colombian nun kidnapped in Mali in 2017 is freed - BBC News",
+      "description": "Gloria Cecilia Narváez was kidnapped by Islamist militants while working as a missionary.",
+      "url": "https://www.bbc.com/news/world-africa-58859526",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6AA5/production/_121010372_nun.jpg",
+      "publishedAt": "2021-10-09T23:49:48Z",
+      "content": "Image source, Malian President's office\r\nA Colombian nun kidnapped by Islamists in Mali four years ago has been freed.\r\nGloria Cecilia Narváez was taken hostage in 2017 while working as a missionary … [+2379 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WISHTV.com" },
+      "author": null,
+      "title": "'Potential security threat' on flight from Indy prompts emergency response, landing at LaGuardia Airport - WISHTV.com",
+      "description": "(CNN) — An American Eagle flight arriving at New York […]",
+      "url": "https://www.wishtv.com/news/local-news/potential-security-threat-on-flight-from-indy-prompts-emergency-response-landing-at-laguardia-airport/",
+      "urlToImage": "https://www.wishtv.com/wp-content/uploads/2021/10/Screenshot-2021-10-09-181642.jpg",
+      "publishedAt": "2021-10-09T22:53:00Z",
+      "content": "(CNN) — An American Eagle flight arriving at New York City’s LaGuardia Airport on Saturday afternoon was deplaned on the tarmac due to a potential security issue, according to a statement from Americ… [+1650 chars]"
+    }
+  ]
+}
